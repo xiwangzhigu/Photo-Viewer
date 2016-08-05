@@ -10,8 +10,8 @@
 
 点击具体某张图片，则会放大图片进行查看
 
-![](http://upload-images.jianshu.io/upload_images/2051899-bf52c0fcb37beb41.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/xiwangzhigu/Photo-Viewer/blob/master/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%9B%B8%E5%86%8C/lucky.png)
 
 向左或向右移动，即可查看前后张图片
 
-![](http://upload-images.jianshu.io/upload_images/2051899-eff4ecc57c9e04df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/xiwangzhigu/Photo-Viewer/blob/master/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%9B%B8%E5%86%8C/run.png)
